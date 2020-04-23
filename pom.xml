@@ -22,7 +22,7 @@
         <springfox.version>2.9.2</springfox.version>
         <dbcp.version>1.4</dbcp.version>
         <mybatis.version>1.3.2</mybatis.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.9.10.4</jackson.version>
     </properties>
     <dependencyManagement>
 
